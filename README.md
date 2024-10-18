@@ -25,7 +25,7 @@ Here are some of my notable projects:
 
 ## 🤝 Connect with Me
 
-- [LinkedIn]([http://www.linkedin.com/in/shivam-mahajan18/](https://www.linkedin.com/in/shivam-mahajan18/))
+- [LinkedIn](https://www.linkedin.com/in/shivam-mahajan18/))
 - [Personal Website](http://www.shivammahajan.com)
 
 Feel free to reach out if you want to collaborate or discuss projects!
